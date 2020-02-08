@@ -1,0 +1,1 @@
+https://github.com/nlohmann/json - библиотека для работы с JSON 
